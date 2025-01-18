@@ -5,8 +5,6 @@ import './index.css'
 export default function App() {
   return (
     <>
-
-   
     <Pages/> <h1 className="text-amber-700">
       Hello world!
     </h1> 
